@@ -2,14 +2,14 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"log_it": "00_tissue_spec_scores.ipynb",
-         "tsi": "00_tissue_spec_scores.ipynb",
-         "spm": "00_tissue_spec_scores.ipynb",
-         "zscore": "00_tissue_spec_scores.ipynb",
-         "tau": "00_tissue_spec_scores.ipynb",
-         "calc_ts": "00_tissue_spec_scores.ipynb"}
+index = {"log_it": "00_tspecscores.ipynb",
+         "tsi": "00_tspecscores.ipynb",
+         "spm": "00_tspecscores.ipynb",
+         "zscore": "00_tspecscores.ipynb",
+         "tau": "00_tspecscores.ipynb",
+         "calc_ts": "00_tspecscores.ipynb"}
 
-modules = ["tissue_spec_scores.py"]
+modules = ["tspecscores.py"]
 
 doc_url = "https://morriso1.github.io/tspecscores/"
 

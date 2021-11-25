@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: tissue_spec_scores
-      url: tissue_spec_scores.html
+      title: tspecscores
+      url: tspecscores.html
     output: web
     title: tspecscores
   output: web
