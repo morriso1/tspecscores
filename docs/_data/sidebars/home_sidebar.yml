@@ -13,6 +13,6 @@ entries:
       title: tissue_spec_scores
       url: tissue_spec_scores.html
     output: web
-    title: tissue_spec_scores
+    title: tspecscores
   output: web
   title: Sidebar
