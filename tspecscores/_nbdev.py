@@ -7,6 +7,7 @@ index = {"log_it": "00_tspecscores.ipynb",
          "spm": "00_tspecscores.ipynb",
          "zscore": "00_tspecscores.ipynb",
          "tau": "00_tspecscores.ipynb",
+         "ts_func": "00_tspecscores.ipynb",
          "calc_ts": "00_tspecscores.ipynb"}
 
 modules = ["tspecscores.py"]
